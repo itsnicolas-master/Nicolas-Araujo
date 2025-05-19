@@ -5,6 +5,5 @@ Atualmente, meus principais focos de estudo são:
 HTML e CSS
 Python
 AWS
-Fluxos bancários, cloud computing e dados
-Sou uma pessoa objetiva, focada em meus propósitos e determinada a crescer na área de tecnologia. Espero, em breve, contribuir de forma significativa com projetos e equipes, e alcançar o conhecimento que tanto busco.
+Fluxos bancários, cloud computing e dados. Sou uma pessoa objetiva, focada em meus propósitos e determinada a crescer na área de tecnologia. Espero, em breve, contribuir de forma significativa com projetos e equipes, e alcançar o conhecimento que tanto busco.
 Se quiser trocar ideias ou tiver alguma dica, sinta-se à vontade para entrar em contato comigo aqui no GitHub ou pelo meu LinkedIn!
